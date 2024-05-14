@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "dot-net-transitions/1.2.1": {
+        "runtime": {
+          "lib/net40-full/Transitions.dll": {
+            "assemblyVersion": "1.2.1.0",
+            "fileVersion": "1.2.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dot-net-transitions/1.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9fDmNS28thlHiY1r7x2AV1zsuWBgrqmaH1XH5eiUeei6bQnyh8/TA0Ntb04b+fk6rR4PIsLO6AHeTY6lcmnwEA==",
+      "path": "dot-net-transitions/1.2.1",
+      "hashPath": "dot-net-transitions.1.2.1.nupkg.sha512"
+    }
+  }
+}
